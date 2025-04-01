@@ -1,7 +1,7 @@
 # Simulating Disruption Events in the US Highway Freight Network
 
-![Capture](![image](https://github.com/user-attachments/assets/acfa8335-5ccc-459a-ba5d-479a2342db4e)
-)
+![image](https://github.com/user-attachments/assets/724116a5-34ca-47d7-ace5-0c9dc636a33e)
+
 
 ## Overview
 This project simulates disruptions in the US highway freight network using data from the US Department of Transportation's Freight Analysis Framework (FAF). The goal is to analyze how disruptions impact cargo transportation and identify the most vulnerable highway segments.
